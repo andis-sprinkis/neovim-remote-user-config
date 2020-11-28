@@ -68,7 +68,7 @@ set wildmenu
 set wildmode=longest:list,full
 
 " tabs and spaces
-autocmd FileType graphql setlocal shiftwidth=2 softtabstop=2 expandtab
+set tabstop=2 softtabstop=0 expandtab shiftwidth=2 smarttab
 
 " dispay special chars
 "set listchars=eol:⦙,tab:»\ 
