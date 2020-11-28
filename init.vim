@@ -89,3 +89,7 @@ set shortmess+=c
 
 " clipboard system register
 set clipboard=unnamedplus
+
+" netrw
+nnoremap - :Explore<cr>
+let g:netrw_liststyle= 1
