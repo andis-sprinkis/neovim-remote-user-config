@@ -99,3 +99,4 @@ nnoremap <silent><leader>b :set nomore <Bar> :ls <Bar> :set more <CR>:b<Space>
 
 " folding
 set foldmethod=syntax
+set foldlevel=99
