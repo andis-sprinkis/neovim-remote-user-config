@@ -96,3 +96,6 @@ let g:netrw_liststyle= 1
 
 " switch buffers
 nnoremap <silent><leader>b :set nomore <Bar> :ls <Bar> :set more <CR>:b<Space>
+
+" folding
+set foldmethod=syntax
