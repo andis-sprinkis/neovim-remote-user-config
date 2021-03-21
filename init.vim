@@ -68,7 +68,8 @@ set wildmenu
 set wildmode=longest:list,full
 
 " tabs and spaces
-set tabstop=2 softtabstop=0 expandtab shiftwidth=2 smarttab
+set tabstop=2 shiftwidth=2 expandtab
+
 
 " dispay special chars
 "set listchars=eol:⦙,tab:»\ 
